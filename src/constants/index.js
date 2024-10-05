@@ -39,23 +39,18 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
+        name: 'Tableau',
+        path: '/assets/Tableau.webp',
       },
       {
         id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
+        name: 'SQL',
+        path: 'assets/sql.webp',
       },
       {
         id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
+        name: 'TData Analysis',
+        path: '/assets/da.webp',
       },
     ],
   },
@@ -78,23 +73,19 @@ export const myProjects = [
       {
         id: 1,
         name: 'Excel',
-        path: '/assets/excel.png',
+        path: '/assets/excel.webp',
       },
       {
         id: 2,
-        name: 'TailwindCSS',
-        path: 'assets/sql.png',
+        name: 'SQL',
+        path: 'assets/sql.webp',
       },
       {
         id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
+        name: 'Power BI',
+        path: '/assets/powerbi.webp',
       },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
-      },
+      
     ],
   },
       

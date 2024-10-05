@@ -28,10 +28,10 @@ const Hero = () => {
         <p className="sm:text-3xl text-xl font-medium text-white text-center font-generalsans">
           Hi, I am Tanusree Byram <span className="waving-hand">👋</span>
         </p>
-        <p className="hero_tag text-gray_gradient">Aspiring Data Scientist</p>
+        <p className="hero_tag text-gray_gradient">Aspiring Data Analyst</p>
       </div>
 
-      <div className="w-full h-full absolute inset-0">
+      <div className="w-full mt-10 h-full absolute inset-0">
         <Canvas className="w-full h-full">
           <Suspense fallback={<CanvasLoader />}>
             {/* To hide controller */}

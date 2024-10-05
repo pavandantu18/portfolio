@@ -23,12 +23,12 @@ export const navLinks = [
 
 export const myProjects = [
   {
-    title: 'Podcastr - AI Podcast Platform',
-    desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+    title: 'Bank Loan Report Project',
+    desc: 'Created detailed reports to monitor loan metrics, such as applications and funded amounts. Developed Good vs. Bad Loan KPIs for clear differentiation, tracking fund amounts and percentages. Designed interactive dashboards with diverse visualizations like bar charts, line charts, and maps for comprehensive trend analysis.',
     subdesc:
-      'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-    href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
-    texture: '/textures/project/project1.mp4',
+      'Implemented grid view reporting for real-time loan status tracking, helping to monitor Month-to-Date (MTD) metrics.',
+    href: '',
+    texture: '',
     logo: '/assets/project-logo1.png',
     logoStyle: {
       backgroundColor: '#2A1816',
@@ -60,12 +60,11 @@ export const myProjects = [
     ],
   },
   {
-    title: 'CarePulse - Health Management System',
-    desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
-    subdesc:
-      'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
-    texture: '/textures/project/project3.mp4',
+    title: 'Amazon Dashboard Creation',
+    desc: 'Connected databases (Excel, SQL, Web) for data extraction and preparation. Analyzed tables and established relationships between datasets. Performed data cleaning using Power Query Editor and DAX functions.',
+    subdesc:'Developed various visualization models to represent key insights. Created and pinned reports to live dashboards for monitoring and decision-making. Published the report and created a live dashboard for continuous data updates.',
+    href: '',
+    texture: '',
     logo: '/assets/project-logo3.png',
     logoStyle: {
       backgroundColor: '#60f5a1',
@@ -78,13 +77,13 @@ export const myProjects = [
     tags: [
       {
         id: 1,
-        name: 'React.js',
-        path: '/assets/react.svg',
+        name: 'Excel',
+        path: '/assets/excel.png',
       },
       {
         id: 2,
         name: 'TailwindCSS',
-        path: 'assets/tailwindcss.png',
+        path: 'assets/sql.png',
       },
       {
         id: 3,
